@@ -17,3 +17,8 @@ p{
 
    text-align:justify ;
 }
+div{
+    background-color: blue;
+    color: black;
+    font-size: 30px;
+}
